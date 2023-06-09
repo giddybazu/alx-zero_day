@@ -1,1 +1,1 @@
-Seccond readme file
+The second readme for 0x03-git
